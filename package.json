@@ -16,6 +16,9 @@
       "babel-preset-env"
     ]
   },
+  "engines": {
+    "node": "10.5.0"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^6.1.0",
