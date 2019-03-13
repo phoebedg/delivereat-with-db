@@ -1,5 +1,5 @@
 {
-  "name": "deliveat-with-db",
+  "name": "delivereat-with-db",
   "version": "1.0.0",
   "description": "An app which allows customers to order food online",
   "main": "server.js",
